@@ -1,16 +1,50 @@
-## Hi there 👋
+# Geoffrey Sisco
+Android Developer | Open Source Contributor
 
-<!--
-**geoffreysisco/geoffreysisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Android](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue)
+![Room](https://img.shields.io/badge/Database-Room-green)
+![Retrofit](https://img.shields.io/badge/Networking-Retrofit-orange)
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source Contributions
+
+### Amaze File Manager
+Open-source Android file manager
+
+• Fix crash when opening Recent Files without storage permission ([PR #4569](https://github.com/TeamAmaze/AmazeFileManager/pull/4569))
+
+• Fix storage permission browsing flow ([PR #4578](https://github.com/TeamAmaze/AmazeFileManager/pull/4578))
+
+• Fix FAB remaining hidden after returning Home from drawer views ([PR #4582](https://github.com/TeamAmaze/AmazeFileManager/pull/4582))
+
+---
+
+## Projects
+
+### FilmAtlas
+Movie discovery Android application.
+
+Features:
+- Randomized discovery feed
+- Favorites
+- Search
+- Popular and recent movies
+
+Tech stack:
+- Java
+- MVVM architecture
+- Room database
+- Retrofit API integration
+- Material Design 3
+
+---
+
+## Current Goals
+
+- Continue contributing to open source Android projects
+- Expand FilmAtlas into a full portfolio application
+- Land my first paid bug-fix contract
