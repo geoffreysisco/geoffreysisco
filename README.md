@@ -36,10 +36,13 @@ Features:
 
 Tech stack:
 - Java
+- Android SDK
 - MVVM architecture
 - Room database
-- Retrofit API integration
+- Retrofit (TMDB API)
+- LiveData & ViewModel
 - Material Design 3
+- Glide
 
 ---
 
