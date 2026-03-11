@@ -26,7 +26,19 @@ Open-source Android file manager
 ## Projects
 
 ### FilmAtlas
-Movie discovery Android application.
+
+Android movie discovery application
+
+https://github.com/geoffreysisco/FilmAtlas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geoffreysisco/FilmAtlas/main/docs/screenshots/discover.png"
+       alt="FilmAtlas Discover screen"
+       width="40%" />
+  <img src="https://raw.githubusercontent.com/geoffreysisco/FilmAtlas/main/docs/screenshots/movie-details.png"
+       alt="FilmAtlas movie details screen"
+       width="40%" />
+</p>
 
 Features:
 - Randomized discovery feed
