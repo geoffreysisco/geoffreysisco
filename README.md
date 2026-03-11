@@ -49,5 +49,5 @@ Tech stack:
 ## Current Goals
 
 - Continue contributing to open source Android projects
-- Expand FilmAtlas into a full portfolio application
+- Improve FilmAtlas through refactoring, testing, and UI polish
 - Land my first paid bug-fix contract
