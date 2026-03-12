@@ -57,6 +57,7 @@ Tech stack:
 - MVVM architecture
 - Room database
 - Retrofit (TMDB API)
+- Gson (JSON serialization)
 - LiveData & ViewModel
 - Material Design 3
 - Glide
