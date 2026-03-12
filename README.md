@@ -1,12 +1,17 @@
 # Geoffrey Sisco
 Android Developer | Open Source Contributor
 
+Android developer focused on debugging, open-source contributions, and building well-structured mobile applications.
+
 ![Android](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue)
 ![Room](https://img.shields.io/badge/Database-Room-green)
 ![Retrofit](https://img.shields.io/badge/Networking-Retrofit-orange)
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white)
+
+Creator of **FilmAtlas**, a movie discovery Android app built with MVVM, Retrofit, and Room.  
+Contributor to **Amaze File Manager**, fixing real-world issues in an established open-source Android project.
 
 ---
 
