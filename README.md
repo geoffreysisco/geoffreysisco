@@ -1,16 +1,18 @@
 # Geoffrey Sisco
-Android Developer | Open Source Contributor
-
-Android developer focused on debugging, open-source contributions, and building well-structured mobile applications.
+Android Debugging Specialist | Bug Investigator | Open Source Contributor
 
 ![Android](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue)
 ![Room](https://img.shields.io/badge/Database-Room-green)
 ![Retrofit](https://img.shields.io/badge/Networking-Retrofit-orange)
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white)
 
-Creator of **FilmAtlas**, a movie discovery Android app built with MVVM, Retrofit, and Room.  
+Android developer focused on debugging complex issues, Android lifecycle behavior, MVVM architecture, and contributing to open-source Android projects.
+I specialize in Android lifecycle debugging, UI state restoration, and investigating complex Android application behavior.
+
+Creator of **FilmAtlas**, a movie discovery Android app built with MVVM, Retrofit, and Room.
 Contributor to **Amaze File Manager**, fixing real-world issues in an established open-source Android project.
 
 ---
@@ -18,7 +20,7 @@ Contributor to **Amaze File Manager**, fixing real-world issues in an establishe
 ## Open Source Contributions
 
 ### Amaze File Manager
-Open-source Android file manager
+Popular open-source Android file manager
 
 • Fix crash when opening Recent Files without storage permission ([PR #4569](https://github.com/TeamAmaze/AmazeFileManager/pull/4569))
 
@@ -31,9 +33,11 @@ Open-source Android file manager
 ## Projects
 
 ### FilmAtlas
+My primary portfolio project exploring Android architecture, UI state management, and debugging workflows.
 
-Android movie discovery application
+Android movie discovery application focused on recent U.S. theatrical releases.
 
+🔗 **Explore the FilmAtlas source code:**  
 https://github.com/geoffreysisco/FilmAtlas
 
 <p align="center">
@@ -45,13 +49,13 @@ https://github.com/geoffreysisco/FilmAtlas
        width="40%" />
 </p>
 
-Features:
+**Features**
 - Randomized discovery feed
 - Favorites
 - Search
 - Popular and recent movies
 
-Tech stack:
+**Tech stack**
 - Java
 - Android SDK
 - MVVM architecture
@@ -68,4 +72,4 @@ Tech stack:
 
 - Continue contributing to open source Android projects
 - Improve FilmAtlas through refactoring, testing, and UI polish
-- Land my first paid bug-fix contract
+- Secure my first paid bug-fix contract
