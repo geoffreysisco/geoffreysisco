@@ -30,6 +30,8 @@ Popular open-source Android file manager
 
 • Fix file rename in drawer views ([PR #4584](https://github.com/TeamAmaze/AmazeFileManager/pull/4584))
 
+• Fix search not working in drawer category views ([PR #4586](https://github.com/TeamAmaze/AmazeFileManager/pull/4586))
+
 ---
 
 ## Projects
