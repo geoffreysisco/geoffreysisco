@@ -28,6 +28,8 @@ Popular open-source Android file manager
 
 • Fix FAB remaining hidden after returning Home from drawer views ([PR #4582](https://github.com/TeamAmaze/AmazeFileManager/pull/4582))
 
+• Fix file rename in drawer views ([PR #4584](https://github.com/TeamAmaze/AmazeFileManager/pull/4584))
+
 ---
 
 ## Projects
