@@ -10,10 +10,25 @@ Android Debugging Specialist | Bug Investigator | Open Source Contributor
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white)
 
 Android developer focused on debugging complex issues, Android lifecycle behavior, MVVM architecture, and contributing to open-source Android projects.
-I specialize in Android lifecycle debugging, UI state restoration, and investigating complex Android application behavior.
+I specialize in tracking down complex bugs, identifying root causes, and implementing reliable fixes in production Android apps.
+
+Focused on diagnosing and fixing real-world application issues:
+- UI not updating (RecyclerView / LiveData)
+- Storage and file system inconsistencies
+- Android lifecycle and state restoration bugs
 
 Creator of **FilmAtlas**, a movie discovery Android app built with MVVM, Retrofit, and Room.
 Contributor to **Amaze File Manager**, fixing real-world issues in an established open-source Android project.
+
+📫 Open to helping debug Android issues — contact: geoffrey.sisco.dev@gmail.com
+
+---
+
+## Featured Case Studies
+
+- Fixed duplicate files and stale UI fix in Android file manager
+
+https://github.com/geoffreysisco/android-bug-fixes
 
 ---
 
@@ -22,15 +37,17 @@ Contributor to **Amaze File Manager**, fixing real-world issues in an establishe
 ### Amaze File Manager
 Popular open-source Android file manager
 
-• Fix crash when opening Recent Files without storage permission ([PR #4569](https://github.com/TeamAmaze/AmazeFileManager/pull/4569))
+• Fixed crash when opening Recent Files without storage permission ([PR #4569](https://github.com/TeamAmaze/AmazeFileManager/pull/4569))
 
-• Fix storage permission browsing flow ([PR #4578](https://github.com/TeamAmaze/AmazeFileManager/pull/4578))
+• Fixed storage permission browsing flow ([PR #4578](https://github.com/TeamAmaze/AmazeFileManager/pull/4578))
 
-• Fix FAB remaining hidden after returning Home from drawer views ([PR #4582](https://github.com/TeamAmaze/AmazeFileManager/pull/4582))
+• Fixed FAB remaining hidden after returning Home from drawer views ([PR #4582](https://github.com/TeamAmaze/AmazeFileManager/pull/4582))
 
-• Fix file rename in drawer views ([PR #4584](https://github.com/TeamAmaze/AmazeFileManager/pull/4584))
+• Fixed file rename in drawer views ([PR #4584](https://github.com/TeamAmaze/AmazeFileManager/pull/4584))
 
-• Fix search not working in drawer category views ([PR #4586](https://github.com/TeamAmaze/AmazeFileManager/pull/4586))
+• Fixed search not working in drawer category views ([PR #4586](https://github.com/TeamAmaze/AmazeFileManager/pull/4586))
+
+• Fixed drawer category views not refreshing after file operations ([PR #4589](https://github.com/TeamAmaze/AmazeFileManager/pull/4589))
 
 ---
 
@@ -76,4 +93,4 @@ https://github.com/geoffreysisco/FilmAtlas
 
 - Continue contributing to open source Android projects
 - Improve FilmAtlas through refactoring, testing, and UI polish
-- Secure my first paid bug-fix contract
+- Open to small paid bug-fix work and debugging assistance
