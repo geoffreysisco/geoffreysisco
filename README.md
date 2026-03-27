@@ -12,7 +12,8 @@ Fixing real-world bugs in Android apps — from crash to root cause to verified 
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white)
 
 Android debugging specialist focused on complex issues in real-world apps.
-I focus on isolating root causes, reproducing edge cases, and delivering minimal, reliable fixes with low regression risk.
+
+I isolate root causes, reproduce edge cases, and deliver minimal, reliable fixes with low regression risk.
 
 Experienced in:
 - Android lifecycle and state restoration issues
@@ -20,7 +21,7 @@ Experienced in:
 - Storage and filesystem edge cases
 
 Creator of **FilmAtlas**, a movie discovery Android app built with MVVM, Retrofit, and Room.
-Contributor to **Amaze File Manager**, fixing real-world bugs in an established Android codebase.
+Active contributor to **Amaze File Manager**, fixing real-world bugs in an established Android codebase.
 
 📫 Available for Android bug fixing and debugging work — contact: geoffrey.sisco.dev@gmail.com
 
@@ -29,7 +30,8 @@ Contributor to **Amaze File Manager**, fixing real-world bugs in an established 
 ## Featured Case Studies
 
 - Fixed duplicate files and stale UI caused by inconsistent drawer state handling
-- Resolved Sleep Timer crash caused by main-thread database access  
+- Resolved Sleep Timer crash caused by main-thread database access
+- Eliminated false network failure on startup caused by out-of-range pagination
 
 🔗 https://github.com/geoffreysisco/android-bug-fixes
 
