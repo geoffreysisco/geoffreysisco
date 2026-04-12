@@ -16,22 +16,22 @@ Android debugging specialist focused on complex issues in real-world apps.
 I isolate root causes, reproduce edge cases, and deliver minimal, reliable fixes with low regression risk.
 
 Experienced in:
-- Android lifecycle and state restoration issues
-- UI inconsistencies (RecyclerView / LiveData)
-- Storage and filesystem edge cases
+- Lifecycle edge cases (rotation, process death, state restoration)
+- RecyclerView inconsistencies and stale UI state bugs
+- Storage permission and filesystem edge cases (scoped storage, MediaStore)
 
-Creator of **FilmAtlas**, a movie discovery Android app built with MVVM, Retrofit, and Room.
-Active contributor to **Amaze File Manager**, fixing real-world bugs in an established Android codebase.
+Creator of **FilmAtlas**, a movie discovery Android app built with Java, MVVM, Retrofit, and Room.  
+Contributor to **Amaze File Manager** and **AntennaPod** — production Android apps with thousands of users.
 
-📫 Available for Android bug fixing and debugging work — contact: geoffrey.sisco.dev@gmail.com
+📫 Available for Android bug fixing and debugging work — geoffrey.sisco.dev@gmail.com
 
 ---
 
 ## Featured Case Studies
 
-- Fixed duplicate files and stale UI caused by inconsistent drawer state handling
-- Resolved Sleep Timer crash caused by main-thread database access
-- Eliminated false network failure on startup caused by out-of-range pagination
+- Fixed duplicate files and stale UI in drawer categories by correcting reload behavior and query filtering
+- Resolved Sleep Timer crash caused by main-thread database access in playback state retrieval
+- Eliminated false network failure on startup caused by out-of-range pagination logic
 
 🔗 https://github.com/geoffreysisco/android-bug-fixes
 
@@ -59,17 +59,16 @@ Material design file manager for Android
 ### AntennaPod
 A podcast manager for Android
 
-• Fixed crash when opening Sleep Timer dialog due to main-thread DB access ([PR #8366](https://github.com/AntennaPod/AntennaPod/pull/8366)) — open
-  - Eliminated main-thread I/O in playback getters and stabilized dialog behavior
-
+• Fixed Sleep Timer dialog crash caused by main-thread database access in playback state retrieval ([PR #8366](https://github.com/AntennaPod/AntennaPod/pull/8366)) — merged  
+  - Reworked dialog to use asynchronously loaded media state during UI refresh, avoiding a main-thread DB access path
+    
 ---
 
 ## Projects
 
 ### FilmAtlas
 Portfolio project exploring Android architecture, UI state management, and debugging workflows.
-
-Android movie discovery app focused on recent U.S. theatrical releases.
+- Android movie discovery app focused on recent U.S. theatrical releases.
 
 **Explore the FilmAtlas source code:**
 
