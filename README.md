@@ -53,7 +53,7 @@ Material design file manager for Android
 
 • Fixed search not working in drawer category views ([PR #4586](https://github.com/TeamAmaze/AmazeFileManager/pull/4586)) — open
 
-• Fixed drawer category views not refreshing after file operations ([PR #4589](https://github.com/TeamAmaze/AmazeFileManager/pull/4589)) — open
+• Fixed drawer category views not refreshing after file operations ([PR #4589](https://github.com/TeamAmaze/AmazeFileManager/pull/4589)) — merged
 
 
 ### AntennaPod
