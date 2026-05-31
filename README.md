@@ -1,7 +1,8 @@
 # Geoffrey Sisco
-Android Debugging Specialist | Open Source Contributor
-
-Fixing real-world bugs in Android apps — from crash to root cause to verified fix
+## Android Debugging Specialist | Open Source Contributor
+Fixing real-world Android bugs from crash report to verified production fix.
+Contributor to AntennaPod and Amaze File Manager with multiple merged production bug fixes.
+I specialize in reproducing difficult issues, isolating root causes, and delivering minimal, reliable fixes with low regression risk.
 
 ![Android](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
@@ -11,66 +12,53 @@ Fixing real-world bugs in Android apps — from crash to root cause to verified 
 ![Retrofit](https://img.shields.io/badge/Networking-Retrofit-orange)
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&logoColor=white)
 
-Android debugging specialist focused on complex issues in real-world apps.
-
-I isolate root causes, reproduce edge cases, and deliver minimal, reliable fixes with low regression risk.
-
-Experienced in:
-- Lifecycle edge cases (rotation, process death, state restoration)
-- RecyclerView inconsistencies and stale UI state bugs
-- Storage permission and filesystem edge cases (scoped storage, MediaStore)
-
-Creator of **FilmAtlas**, a movie discovery Android app built with Java, MVVM, Retrofit, and Room.  
-Contributor to **Amaze File Manager** and **AntennaPod** — production Android apps with thousands of users.
-
-📫 Available for Android bug fixing and debugging work — geoffrey.sisco.dev@gmail.com
-
 ---
 
-## Featured Case Studies
-
-- Fixed duplicate files and stale UI in drawer categories by correcting reload behavior and query filtering
-- Resolved Sleep Timer crash caused by main-thread database access in playback state retrieval
-- Eliminated false network failure on startup caused by out-of-range pagination logic
-
-🔗 https://github.com/geoffreysisco/android-bug-fixes
-
----
-
-## Open Source Contributions
-Real-world bug fixes in active Android projects:
-
-### Amaze File Manager
-Material design file manager for Android
-
-• Fixed crash when opening Recent Files without storage permission ([PR #4569](https://github.com/TeamAmaze/AmazeFileManager/pull/4569)) — merged
-
-• Fixed storage permission browsing flow ([PR #4578](https://github.com/TeamAmaze/AmazeFileManager/pull/4578)) — merged
-
-• Fixed FAB remaining hidden after returning Home from drawer views ([PR #4582](https://github.com/TeamAmaze/AmazeFileManager/pull/4582)) — open
-
-• Fixed file rename in drawer views ([PR #4584](https://github.com/TeamAmaze/AmazeFileManager/pull/4584)) — open
-
-• Fixed search not working in drawer category views ([PR #4586](https://github.com/TeamAmaze/AmazeFileManager/pull/4586)) — open
-
-• Fixed drawer category views not refreshing after file operations ([PR #4589](https://github.com/TeamAmaze/AmazeFileManager/pull/4589)) — merged
-
+## Highlights
+Merged fixes in production Android applications:
 
 ### AntennaPod
-A podcast manager for Android
+* Introduced magic-byte media format detection to replace brute-force parser dispatch ([#8416](https://github.com/AntennaPod/AntennaPod/pull/8416)) - merged
+* Fixed crash when choosing a data folder while Android reports an unavailable storage volume ([#8505](https://github.com/AntennaPod/AntennaPod/pull/8505)) - merged
+* Fixed Sleep Timer dialog crash caused by main-thread database access during playback-state retrieval ([#8366](https://github.com/AntennaPod/AntennaPod/pull/8366)) - merged
 
-• Fixed Sleep Timer dialog crash caused by main-thread database access in playback state retrieval ([PR #8366](https://github.com/AntennaPod/AntennaPod/pull/8366)) — merged  
-  - Reworked dialog to use asynchronously loaded media state during UI refresh, avoiding a main-thread DB access path
-    
+### Amaze File Manager
+* Fixed crash when opening Recent Files without storage permission ([#4569](https://github.com/TeamAmaze/AmazeFileManager/pull/4569)) - merged
+* Fixed storage permission browsing flow ([#4578](https://github.com/TeamAmaze/AmazeFileManager/pull/4578)) - merged
+* Fixed drawer category views not refreshing after file operations ([#4589](https://github.com/TeamAmaze/AmazeFileManager/pull/4589)) - merged
+
+#### Additional Amaze fixes currently under review include:
+- restoring search functionality in drawer category views
+- correcting rename operations launched from drawer views
+- fixing FAB visibility after returning Home from drawer views
+  
 ---
 
-## Projects
+## Areas of Focus
+* Android crash investigation
+* Lifecycle edge cases (rotation, process death, state restoration)
+* Media playback and streamed-content debugging
+* Storage, filesystem, and scoped-storage edge cases
+* RecyclerView inconsistencies and stale UI state bugs
+* Network-aware Android debugging
+* Performance and unnecessary work reduction
 
-### FilmAtlas
-Portfolio project exploring Android architecture, UI state management, and debugging workflows.
-- Android movie discovery app focused on recent U.S. theatrical releases.
+---
 
-**Explore the FilmAtlas source code:**
+📋 Detailed writeups: https://github.com/geoffreysisco/android-bug-fixes
+
+---
+
+## FilmAtlas
+**FilmAtlas** is a production-quality Android movie-discovery app built to demonstrate clean architecture and debugging workflows.
+
+Built with:
+* Java
+* MVVM
+* Room
+* Retrofit
+* LiveData & ViewModel
+* Material Design 3
 
 🔗 https://github.com/geoffreysisco/FilmAtlas
 
@@ -83,30 +71,8 @@ Portfolio project exploring Android architecture, UI state management, and debug
        width="40%" />
 </p>
 
-**Features**
-- Randomized discovery feed
-- Favorites
-- Search
-- Popular and recent movies
-
-**Tech stack**
-- Java
-- Android SDK
-- MVVM architecture
-- Room database
-- Retrofit (TMDB API)
-- Gson (JSON serialization)
-- LiveData & ViewModel
-- Material Design 3
-- Glide
-
 ---
 
-## Current Focus
-
-- Continue contributing to open source Android projects
-- Improve FilmAtlas through refactoring, testing, and UI polish
-
 ## Availability
-
-- Available for paid Android bug fixing and debugging work
+Available for Android debugging, crash investigation, bug fixing, and consulting.
+📫 [geoffrey.sisco.dev@gmail.com](mailto:geoffrey.sisco.dev@gmail.com)
