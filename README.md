@@ -1,8 +1,11 @@
 # Geoffrey Sisco
 ## Android Debugging Specialist | Open Source Contributor
 Fixing real-world Android bugs from crash report to verified production fix.
-Contributor to AntennaPod and Amaze File Manager with multiple merged production bug fixes.
+Contributor to [AntennaPod](https://github.com/AntennaPod/) and [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager/) with six merged production bug fixes across crash fixes, media playback, storage, permissions, lifecycle behavior, and UI state management.
 I specialize in reproducing difficult issues, isolating root causes, and delivering minimal, reliable fixes with low regression risk.
+
+📫 Contact: geoffrey.sisco.dev@gmail.com<br>
+📋 Detailed Case Studies: https://github.com/geoffreysisco/android-bug-fixes
 
 ![Android](https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
@@ -28,9 +31,9 @@ Merged fixes in production Android applications:
 * Fixed drawer category views not refreshing after file operations ([#4589](https://github.com/TeamAmaze/AmazeFileManager/pull/4589)) - merged
 
 #### Additional Amaze fixes currently under review include:
-- restoring search functionality in drawer category views
-- correcting rename operations launched from drawer views
-- fixing FAB visibility after returning Home from drawer views
+- restoring search functionality in drawer category views ([#4586](https://github.com/TeamAmaze/AmazeFileManager/pull/4586))
+- correcting rename operations launched from drawer views ([#4584](https://github.com/TeamAmaze/AmazeFileManager/pull/4584))
+- fixing FAB visibility after returning Home from drawer views ([#4582](https://github.com/TeamAmaze/AmazeFileManager/pull/4582))
   
 ---
 
@@ -42,10 +45,6 @@ Merged fixes in production Android applications:
 * RecyclerView inconsistencies and stale UI state bugs
 * Network-aware Android debugging
 * Performance and unnecessary work reduction
-
----
-
-📋 Detailed writeups: https://github.com/geoffreysisco/android-bug-fixes
 
 ---
 
@@ -74,5 +73,13 @@ Built with:
 ---
 
 ## Availability
-Available for Android debugging, crash investigation, bug fixing, and consulting.
-📫 [geoffrey.sisco.dev@gmail.com](mailto:geoffrey.sisco.dev@gmail.com)
+
+Available for:
+
+- Android crash investigation
+- Android bug fixing
+- Reproduction and root-cause analysis
+- Open-source and production Android applications
+- Contract and freelance Android debugging
+
+📫 geoffrey.sisco.dev@gmail.com
